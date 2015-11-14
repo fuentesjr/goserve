@@ -1,2 +1,2 @@
 # goserve
-Small and simple http server to quickly serve files in a directory ... unix philosophy
+Small and simple http server to quickly serve files from a directory ... unix philosophy
